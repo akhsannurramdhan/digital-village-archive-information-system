@@ -77,7 +77,8 @@ vendor/
 
 <img width="1918" height="967" alt="Screenshot 2026-06-22 030152" src="https://github.com/user-attachments/assets/28d26370-2eee-4710-b94a-25c220f79731" />
 <img width="1918" height="972" alt="Screenshot 2026-06-22 030200" src="https://github.com/user-attachments/assets/d51f7282-a840-482c-b66a-39246d150f80" />
-<img width="1918" height="971" alt="Screenshot 2026-06-22 030226" src="https://github.com/user-attachments/assets/20a43432-93a7-4486-9746-02858911f843" />
+<img width="1918" height="971" alt="610907276-20a43432-93a7-4486-9746-02858911f843" src="https://github.com/user-attachments/assets/1505aa93-9dca-4bc9-9171-f93e17bddb23" />
+
 
 
 
